@@ -1,2 +1,2 @@
 # Covid-19
-A powerBI project that analyses latest report of Covid-19 cases
+A dynamic PowerBI dashboard to explore and visualize Covid-19 cases focusing to understand trends of CORONA virus impact on global health.
